@@ -19,12 +19,41 @@
 
 ### 🚀 Featured Projects
 
-| Project | Stack | Preview |
-|--------|--------|---------|
-| [🌐 Voyage](https://github.com/Rijo-1/Voyage2.0) | React, Tailwind, AI | Travel recommendations app |
-| [🤖 AI Placement Bot](https://github.com/Rijo-1/AI-Placement-Trainer-Chatbot) | Python, LLM, React | Career guidance chatbot |
-| [🌿 Plant Pulse](https://github.com/Rijo-1/PlantPulse) | CV, ML, Python | Crop + disease detection |
-| [⚽ Football Analytics](https://github.com/Rijo-1/Football-Analysis-using-Computer-Vision-with-Yolov8-OpenCV) | YOLOv8, OpenCV | Player + ball detection |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Stack</th>
+      <th>Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Rijo-1/Voyage2.0">🌐 Voyage</a></td>
+      <td>React, Tailwind, AI</td>
+      <td>Travel recommendations app</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Rijo-1/AI-Placement-Trainer-Chatbot">🤖 AI Placement Bot</a></td>
+      <td>Python, LLM, React</td>
+      <td>Career guidance chatbot</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Rijo-1/PlantPulse">🌿 Plant Pulse</a></td>
+      <td>CV, ML, Python</td>
+      <td>Crop + disease detection</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Rijo-1/Football-Analysis-using-Computer-Vision-with-Yolov8-OpenCV">⚽ Football Analytics</a></td>
+      <td>YOLOv8, OpenCV</td>
+      <td>Player + ball detection</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
@@ -52,6 +81,7 @@
 <p align="center">
   <img src="https://github.com/Rijo-1/Rijo-1/blob/output/github-snake.svg" alt="snake gif" />
 </p>
+
 ---
 
 <p align="center">
