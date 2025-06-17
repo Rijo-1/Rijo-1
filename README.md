@@ -49,7 +49,7 @@
 ---
 
 ---
-
+![Snake animation](https://github.com/Rijo-1/Rijo-1/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://github.com/Rijo-1/Rijo-1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
