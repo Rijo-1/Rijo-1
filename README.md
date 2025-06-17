@@ -25,7 +25,6 @@
 | [🤖 AI Placement Bot](https://github.com/Rijo-1/AI-Placement-Trainer-Chatbot) | Python, LLM, React | Career guidance chatbot |
 | [🌿 Plant Pulse](https://github.com/Rijo-1/PlantPulse) | CV, ML, Python | Crop + disease detection |
 | [⚽ Football Analytics](https://github.com/Rijo-1/Football-Analysis-using-Computer-Vision-with-Yolov8-OpenCV) | YOLOv8, OpenCV | Player + ball detection |
-| [🐍 Snake Game](https://github.com/Rijo-1/Snake-Game) | HTML, JS, Canvas | Classic game remastered |
 
 ---
 
