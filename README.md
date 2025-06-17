@@ -60,10 +60,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rijo-1&show_icons=true&theme=radical&count_private=true&hide_rank=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rijo-1&show_icons=true&theme=radical&count_private=true&hide=prs,issues" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rijo-1&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijo-1&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijo-1&layout=compact&theme=radical&hide=php,c" height="180" />
 </p>
+
 
 ---
 
