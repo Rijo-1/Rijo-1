@@ -47,11 +47,12 @@
 </p>
 
 ---
+### 🐍 Contribution Snake Animation
 
+<p align="center">
+  <img src="https://github.com/Rijo-1/Rijo-1/blob/output/github-snake.svg" alt="snake gif" />
+</p>
 ---
-![Snake animation](https://github.com/Rijo-1/Rijo-1/blob/output/github-snake.svg)
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rijo-1&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
