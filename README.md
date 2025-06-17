@@ -25,14 +25,16 @@
 | [🤖 AI Placement Bot](https://github.com/Rijo-1/AI-Placement-Trainer-Chatbot) | Python, LLM, React | Career guidance chatbot |
 | [🌿 Plant Pulse](https://github.com/Rijo-1/PlantPulse) | CV, ML, Python | Crop + disease detection |
 | [⚽ Football Analytics](https://github.com/Rijo-1/Football-Analysis-using-Computer-Vision-with-Yolov8-OpenCV) | YOLOv8, OpenCV | Player + ball detection |
+| [🐍 Snake Game](https://github.com/Rijo-1/Snake-Game) | JS, HTML5, Canvas | Modern remake of Snake |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rijo-1&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rijo-1&show_icons=true&theme=radical&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rijo-1&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijo-1&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
@@ -47,6 +49,14 @@
 
 ---
 
+### 🐍 Contribution Snake Animation
+
 <p align="center">
   <img src="https://github.com/Rijo-1/Rijo-1/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rijo-1&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
 </p>
